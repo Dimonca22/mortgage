@@ -31,7 +31,7 @@ class MortgageViewSet(viewsets.ModelViewSet):
             return Response(self.serializer_class(queryset, many=True).data, status=status.HTTP_200_OK)
 
 
-def calculatorOffer(request):
+def CalculatorOffer(request):
     form = BankForm()
     res = []
     if request.method == 'POST':
