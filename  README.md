@@ -24,7 +24,7 @@
 ----
 
 ### Используемый стек
-1) Django. Обязательно
-2) [DRF](https://www.django-rest-framework.org/). Обязательно
+1) Django.
+2) [DRF](https://www.django-rest-framework.org/)
 3) [django-filters](https://django-filter.readthedocs.io/en/stable/guide/usage.html). По желанию
 
